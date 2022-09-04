@@ -42,6 +42,7 @@ endstep0-->
 
 <!--
   <<< Author notes: Step 1 >>>
+  add change
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
